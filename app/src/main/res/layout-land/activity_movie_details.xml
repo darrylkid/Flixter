@@ -24,7 +24,7 @@
         android:layout_below="@+id/ivDetailPoster"
         android:layout_alignParentEnd="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="36dp"
+        android:layout_marginTop="8dp"
         android:layout_marginEnd="571dp"
         android:numStars="5"
         android:stepSize="0.5"
