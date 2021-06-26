@@ -26,8 +26,9 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/darrylkid/Flixter/blob/master/app/src/main/res/drawable/FlixterDemonstrationLandscape.gif' title='FlixterDemonstrationLandscape' width='' alt='FlixterDemonstrationLandscape' />
 <img src='https://github.com/darrylkid/Flixter/blob/master/app/src/main/res/drawable/FlixterDemonstrationPortrait.gif' title='FlixterDemonstrationLandscape' width='' alt='FlixterDemonstrationLandscape' />
+<img src='https://github.com/darrylkid/Flixter/blob/master/app/src/main/res/drawable/FlixterDemonstrationLandscape.gif' title='FlixterDemonstrationLandscape' width='' alt='FlixterDemonstrationLandscape' />
+
 
 GIF created with [Kap](https://getkap.co/).
 
