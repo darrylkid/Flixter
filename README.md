@@ -34,7 +34,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most challenging aspect of Flixter was creating the view holder for one movie.
 
 ## Open-source libraries used
 
